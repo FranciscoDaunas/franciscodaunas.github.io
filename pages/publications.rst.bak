@@ -1,5 +1,5 @@
-.. title: J.Francisco Daunas
-.. slug: biography
+.. title:
+.. slug: Publications
 .. date: 2022-10-07 11:58:10 UTC+01:00
 .. tags: 
 .. category: 
@@ -8,11 +8,10 @@
 .. type: text
 
 
---------
-Overview
---------
-I received my BEng in Mechatronic and Robotic Engineering from the University of Sheffield, UK in 2018 and an MSc in Advanced Control and Systems Engineering from the University of Sheffield, UK in 2019. I am currently a PhD Candidate in the Department of Automatic Control and Systems Engineering at The University of Sheffield, and a Visiting PhD Candidate in INRIA, Centre de Recherche de Sophia Antipolis, France.
-In 2019-2020 I was a Control Systems Engineer at Huber+Suhner Polatis, Cambridge, UK. My research interests include information theory and control theory problems with incomplete or mismatched system information.
+---------
+Preprints
+---------
+* **F. Daunas**, I. Esnaola, S. M. Perlaza, and H. V. Poor. "Analysis of the Relative Entropy Asymmetry in the Regularization of Empirical Risk Minimization", IEEE Int. Symp. on Information Theory 2023, Taipei, Taiwan, Jun.2023, pp 1- 22.
 
 ---------------
 Work Experience

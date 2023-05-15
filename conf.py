@@ -143,8 +143,8 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', 'Home'),
-        ('/biography/index.html', 'Biography'),
-        ('/publications/index.html', 'Publications'),
+        ('/Biography/index.html', 'Biography'),
+        ('/Publications/index.html', 'Publications'),
         ('https://twitter.com/franciscodaunas', 'My Twitter'),
         ('https://github.com/FranciscoDaunas', 'My Github'),
     )
@@ -980,7 +980,7 @@ LICENSE = ""
 
 # A small copyright notice for the page footer (in HTML).
 # (translatable)
-CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}</a> - Powered by         <a href="https://getnikola.com" rel="nofollow">Nikola</a>         {license}'
+CONTENT_FOOTER = 'Contents &copy; {date}         <a href="mailto:{email}">{author}'
 
 # Things that will be passed to CONTENT_FOOTER.format().  This is done
 # for translatability, as dicts are not formattable.  Nikola will

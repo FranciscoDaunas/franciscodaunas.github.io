@@ -1,5 +1,5 @@
-.. title: J.Francisco Daunas
-.. slug: publications
+.. title:
+.. slug: Publications
 .. date: 2022-10-07 11:58:10 UTC+01:00
 .. tags: 
 .. category: 
@@ -11,8 +11,4 @@
 ---------
 Preprints
 ---------
-Something here
-
----------------
-Work Experience
----------------
+* **F. Daunas**, I. Esnaola, S. M. Perlaza, and H. V. Poor. "Analysis of the Relative Entropy Asymmetry in the Regularization of Empirical Risk Minimization", IEEE Int. Symp. on Information Theory 2023, Taipei, Taiwan, Jun.2023, pp 1- 22.
