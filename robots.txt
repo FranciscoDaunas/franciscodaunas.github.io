@@ -1,0 +1,4 @@
+Sitemap: https://franciscodaunase.com/sitemapindex.xml
+
+User-Agent: *
+Host: franciscodaunase.com
