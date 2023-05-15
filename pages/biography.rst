@@ -24,7 +24,7 @@ Education
   
 * | **University of Sheffield**
   | *Sheffield, UK*
-  | MSc Advanced Industrial Conrol, Sep. 2018 - Aug. 2019
+  | MSc  Advanced Control and Systems Engineering, Sep. 2018 - Aug. 2019
   
 * | **University of Sheffield**
   | *Sheffield, UK*
