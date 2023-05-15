@@ -144,7 +144,7 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', 'Home'),
         ('/biography/index.html', 'Biography'),
-        ('/Publications/index.html', 'Publications'),
+        ('/publications/index.html', 'Publications'),
         ('https://twitter.com/franciscodaunas', 'My Twitter'),
         ('https://github.com/FranciscoDaunas', 'My Github'),
     )
@@ -1264,7 +1264,17 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # Google Analytics or whatever else you use. Added to the bottom of <body>
 # in the default template (base.tmpl).
 # (translatable)
-# BODY_END = ""
+BODY_END = '''
+...
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-QPCRDJYEP3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-QPCRDJYEP3');
+</script>'''
 
 # The possibility to extract metadata from the filename by using a
 # regular expression.

@@ -143,10 +143,8 @@ TRANSLATIONS_PATTERN = '{path}.{lang}.{ext}'
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ('/index.html', 'Home'),
-        ('/biography/index.html', 'Books'),
-        ('/archive.html', 'Archives'),
-        ('/categories/index.html', 'Tags'),
-        ('https://getnikola.com', 'About me'),
+        ('/biography/index.html', 'Biography'),
+        ('/publications/index.html', 'Publications'),
         ('https://twitter.com/franciscodaunas', 'My Twitter'),
         ('https://github.com/FranciscoDaunas', 'My Github'),
     )
