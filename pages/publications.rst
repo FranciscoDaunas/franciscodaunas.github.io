@@ -8,9 +8,12 @@
 .. type: text
 
 
----------
-Preprints
----------
+-----------
+Conferences
+-----------
 	**F. Daunas**, I. Esnaola, S. M. Perlaza, and H. V. Poor. *Analysis of the Relative Entropy Asymmetry in the Regularization of Empirical Risk Minimization*, IEEE Int. Symp. on Information Theory 2023, Taipei, Taiwan, Jun.2023, pp 1- 22.
-
+	
+-----------------
+Technical Reports
+-----------------
 	**F. Daunas**, I. Esnaola, S. M. Perlaza, and H. V. Poor. *Empirical Risk Minimization with Relative Entropy Regularization Type-II*,INRIA, Centre Inria d'Université Côte d'Azur, Sophia Antipolis, France, Tech. Rep. RR-9508, May. 2023.
