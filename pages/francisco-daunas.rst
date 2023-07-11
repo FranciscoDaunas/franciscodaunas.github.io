@@ -11,27 +11,32 @@
    :align: top
    :width: 250
 
-.. figure: /images/FranciscoDaunas.jpg
-   :figwidth: 100%
-   :target: /images/FranciscoDaunas.jpg
+.. raw:: html
 
-+---------------------------+--------------------------------------------------------------------------------------------------------------------+
-|                           | |                                                                                                                  |
-|                           |                                                                                                                    |
-|                           | 	  | **PhD candidat**                                                                                             |
-|                           |     | `Department of Automatic Control and Systems Engineering <https://www.sheffield.ac.uk/acse>`_                |
-| +-----------------------+ |     | `University of Sheffield <https://www.sheffield.ac.uk/>`_                                                    |
-| |     |logo|            | |     | Sheffield, South Yorkshire, UK                                                                               |
-| |                       | |     | Advised by: `Dr. Iñaki Esnaola <https://www.sheffield.ac.uk/acse/department/people/academic/inaki-esnaola>`_ |
-| |                       | |     |                                                                                                              |
-| +-----------------------+ |     | **Member of NEO Team at Inria**                                                                              |
-|                           |     | `INRIA Centre at Université Côte d’Azur <https://www.inria.fr/en/inria-centre-universite-cote-azur>`_        |
-|                           |     | `INRIA <https://www.inria.fr/fr>`_                                                                           |
-|                           |     | Sophia Antipolis, France.                                                                                    |
-|                           |     | Advised by: `Dr. Samir M. Perlaza <https://www-sop.inria.fr/members/Samir.Perlaza/>`_                        |
-+---------------------------+--------------------------------------------------------------------------------------------------------------------+
-
-
+    <div style="display: flex;">
+        <div style="flex: 0 250px;">
+            <td><p><img alt="logo" class="align-top" src="images/FranciscoDaunas.jpg" style="width: 250px;"></p></td>
+        </div>
+        <div style="flex: 1;">
+         <blockquote>
+			<div class="line-block">
+			<div class="line"><strong>PhD candidate</strong></div>
+			<div class="line"><a class="reference external" href="https://www.sheffield.ac.uk/acse">Department of Automatic Control and Systems Engineering</a></div>
+			<div class="line"><a class="reference external" href="https://www.sheffield.ac.uk/">University of Sheffield</a></div>
+			<div class="line">Sheffield, South Yorkshire, UK</div>
+			<div class="line">Advised by: <a class="reference external" href="https://www.sheffield.ac.uk/acse/department/people/academic/inaki-esnaola">Dr. Iñaki Esnaola</a>
+			</div>
+			<div class="line"><br></div>
+			<div class="line"><strong>Member of NEO Team at Inria</strong></div>
+			<div class="line"><a class="reference external" href="https://www.inria.fr/en/inria-centre-universite-cote-azur">INRIA Centre at Université Côte d’Azur</a></div>
+			<div class="line"><a class="reference external" href="https://www.inria.fr/fr">INRIA</a></div>
+			<div class="line">Sophia Antipolis, France.</div>
+			<div class="line">Advised by: <a class="reference external" href="https://www-sop.inria.fr/members/Samir.Perlaza/">Dr. Samir M. Perlaza</a>
+			</div>
+			</div>
+			</blockquote>
+        </div>
+    </div>
 
 .. topic:: **Contact**
 
