@@ -14,10 +14,10 @@
 .. raw:: html
 
     <div style="display: flex;">
-        <div style="flex: 1;">
+        <div style="flex: 0 250px;">
             <td><p><img alt="logo" class="align-top" src="images/FranciscoDaunas.jpg" style="width: 250px;"></p></td>
         </div>
-        <div style="flex: 2;">
+        <div style="flex: 1;">
          <blockquote>
 			<div class="line-block">
 			<div class="line"><strong>PhD candidate</strong></div>

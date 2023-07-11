@@ -1,4 +1,4 @@
-.. title: J.Francisco Daunas
+.. title: Francisco Daunas
 .. slug: index
 .. date: 2022-10-07 11:58:10 UTC+01:00
 .. tags: 
