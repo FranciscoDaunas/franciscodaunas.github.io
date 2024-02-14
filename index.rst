@@ -49,6 +49,4 @@
 ------------------
 Research Interests
 ------------------
-My research focuses on understanding the implications the use of incomplete information in PAC learning. The surge of applications in which machine learning (ML) provides the technological backbone, has propelled the technology to the forefront of research. By analysing the impact incomplete information mai research aims at deepening our understanding on the fundamental limits of attainable generalization via regularization in supervised learning settings.
-
-
+My research focuses on understanding the implications of the use of incomplete information in PAC learning. The surge of applications in which machine learning (ML) provides the technological backbone has propelled the technology to the forefront of research. By analyzing the impact of incomplete information, my research aims to deepen our understanding of the fundamental limits of attainable generalization via regularization in supervised learning settings.
