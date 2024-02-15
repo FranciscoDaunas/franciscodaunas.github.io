@@ -1116,3 +1116,19 @@ article .metadata {
     }
 }
 
+
+ul.icon
+{
+	list-style-type:none;
+}
+
+ul.icon li
+{
+	position:relative;
+}
+ul.icon li:before {    
+    padding:0 10px 0 0;
+    position:absolute;
+    top:0; left:-10px;
+}
+
