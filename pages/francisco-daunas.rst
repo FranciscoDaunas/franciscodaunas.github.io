@@ -45,6 +45,20 @@
    | Sir Henry Stephenson Building, room 305
    | jdaunastorres1@sheffield.ac.uk, jose-francisco.daunas-torres@inria.fr
 
+.. raw:: html
+
+	<ul class="fa-ul" style>
+		<li><i class="fa fa-graduation-cap"></i>
+			<a href="https://scholar.google.com/citations?hl=en&user=mOTnjDgAAAAJ">
+				 Google Scholar
+			</a>
+		</li>
+		<li><i class="ai ai-orcid-square"></i>
+			<a href="https://orcid.org/0009-0009-2038-9985">
+				 ORCID
+			</a>
+		</li>
+	</ul>
 
 ------------------
 Research Interests

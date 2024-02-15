@@ -1261,6 +1261,8 @@ MARKDOWN_EXTENSIONS = ['markdown.extensions.fenced_code', 'markdown.extensions.c
 # before </head>
 # (translatable)
 EXTRA_HEAD_DATA = '''
+    <script src="https://kit.fontawesome.com/d9a63f53d4.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://Xinying-Zou.github.io/assets/css/academicons.css">
     <meta name="google-site-verification" content="5c5dN7pkf1IIN6DtvyuQkdLSz6fDHwc8btviICcQd_c" />
 '''
 # Google Analytics or whatever else you use. Added to the bottom of <body>
