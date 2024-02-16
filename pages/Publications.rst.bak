@@ -10,7 +10,7 @@
 -----------
 Journals
 -----------
-	**F. Daunas**, I. Esnaola, S. M. Perlaza, and H. V. Poor. ` Empirical Risk Minimization with Relative Entropy Regularization Type-II <https://hal.science/hal-04110899/document>`_, Submitted to IEEE Transactions on Information Theory, in February 2024. Appears as an INRIA Technical Report in `RR-9508 <https://hal.science/hal-04110899/document>`_
+	**F. Daunas**, I. Esnaola, S. M. Perlaza, and H. V. Poor. `Empirical Risk Minimization with Relative Entropy Regularization Type-II <https://hal.science/hal-04110899/document>`_, Submitted to IEEE Transactions on Information Theory, in February 2024. Appears as an INRIA Technical Report in `RR-9508 <https://hal.science/hal-04110899/document>`_
 
 -----------
 Conferences
